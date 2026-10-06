@@ -1,5 +1,8 @@
-# CHOMPI Cumminuty Firmware
+# CHOMPI Community Firmware
 In October 2026 Chase Bliss made [CHOMPI Open source](https://www.chasebliss.eu/chompi-open-source). This is a directory for alternative CHOMPI firmware projects created by the community.
+
+## How do get listed on this page
+Open a pull request with your contribution. Include a row with the _Name_ (linked), _Description_ and your GitHub Username in the _Contributor_ column. Make sure to link to a **ready to use build or tool**.
 
 ## Instruments
 | Name | Description | Contributor |
@@ -12,5 +15,4 @@ In October 2026 Chase Bliss made [CHOMPI Open source](https://www.chasebliss.eu/
 |[USB Storage v1.5](https://github.com/lnetzel/CHOMPI-lnetzel/releases#release-usb-storage-v1.5)|Mount the SD-card as a class compliant USB disk via USB cable|[lnetzel](https://github.com/lnetzel)|
 
 
-## How do get listed
-Open a pullrequest with your contribution, link to compiled build or ready to use tool
+
